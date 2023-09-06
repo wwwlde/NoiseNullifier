@@ -1,5 +1,7 @@
 # 🚫🔊 NoiseNullifier
 
+> ⭐️⭐️⭐️ If you find this project useful, please consider giving it a star on GitHub. This helps draw attention to the project and encourages ongoing development. Thank you!
+
 NoiseNullifier reduces alert notification noise. No more being bombarded on your chat or phone. Peace at last!
 
 NoiseNullifier isn't about introducing complex operations or intelligence into your alert management system. Instead, it's about simplifying processes, minimizing distractions, and allowing teams to focus on resolving incidents without the constant buzz of ongoing alerts.
