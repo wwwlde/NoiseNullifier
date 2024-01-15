@@ -3,7 +3,7 @@ module linuxhelp.com.ua
 go 1.21.0
 
 require (
-	github.com/PagerDuty/go-pagerduty v1.7.0
+	github.com/PagerDuty/go-pagerduty v1.8.0
 	github.com/spf13/cobra v1.8.0
 )
 
